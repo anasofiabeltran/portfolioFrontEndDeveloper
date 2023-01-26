@@ -1,0 +1,8 @@
+.Button figure img{
+    width: 20px;
+}
+
+.Button figure{
+    display: flex;
+    gap: 10px;
+}

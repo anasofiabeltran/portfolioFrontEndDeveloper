@@ -1,8 +1,11 @@
 import React from 'react'
 
+import './CardsCss.css'
+
 function Cards({children}) {
   return (
-    <section>
+    <section className='Cards'>
+      
         {children}
 
     </section>

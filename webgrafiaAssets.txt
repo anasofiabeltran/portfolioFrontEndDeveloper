@@ -10,3 +10,8 @@ Iconos:
 <a href="https://www.flaticon.com/free-icons/react" title="react icons">React icons created by srip - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/sass" title="sass icons">Sass icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/typescript" title="typescript icons">Typescript icons created by Freepik - Flaticon</a>
+
+
+<a href="https://www.flaticon.es/iconos-gratis/codigo" title="código iconos">Código iconos creados por Icongeek26 - Flaticon</a>
+<a href="https://www.flaticon.es/iconos-gratis/github" title="github iconos">Github iconos creados por pictogramer - Flaticon</a>
+<a href="https://www.flaticon.es/iconos-gratis/clicker-del-mouse" title="clicker del mouse iconos">Clicker del mouse iconos creados por gungyoga04 - Flaticon</a>

@@ -37,7 +37,7 @@ const Main = ( ) =>{
                 },
                 background: {
                     color: {
-                        value: "#000000",
+                        value: "#270828",
                     },
                 },
                 fpsLimit: 60,

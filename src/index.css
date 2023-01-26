@@ -4,7 +4,23 @@
   box-sizing: border-box;
 }
 
+:root{
+  --primary-color: #270828;
+  --secondary-color: #A848AB;
+  --tertiary-color: #F7DA74;
+  --quaternary-color: #8DF7E4;
+
+}
+
 body {
   color: white;
   padding: 8%;
+}
+
+button{
+  border: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  background: var(--tertiary-color);
+  margin: 0.5rem;
 }
