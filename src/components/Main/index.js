@@ -7,6 +7,7 @@ import { AboutMe } from "../AboutMe";
 import { Portafolio } from "../Portafolio";
 import { Contact } from "../Contact";
 import {Header} from "../Header"
+import {Footer} from "../Footer"
 
 import './MainCss.css'
 
@@ -41,7 +42,7 @@ const Main = ( ) =>{
                         value: "#270828",
                     },
                 },
-                fpsLimit: 60,
+                fpsLimit: 40,
                 interactivity: {
                     events: {
                         onClick: {
@@ -119,7 +120,7 @@ const Main = ( ) =>{
                             default: "bounce",
                         },
                         random: false,
-                        speed: 6,
+                        speed: 2,
                         straight: false,
                     },
                     number: {
@@ -151,6 +152,7 @@ const Main = ( ) =>{
             <AboutMe />
             <Portafolio />
             <Contact />
+            <Footer />
         </main>
     );
 

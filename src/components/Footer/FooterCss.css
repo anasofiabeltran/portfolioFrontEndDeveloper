@@ -1,0 +1,14 @@
+.Footer{
+    
+    position: relative;
+
+}
+
+.Footer-content{
+    background: var(--secondary-color);
+    position: absolute;
+    top: 0;
+    left: -119px;
+    width: 98.7vw;
+    height: 17vh;
+}
