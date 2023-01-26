@@ -12,10 +12,10 @@ import mouse from '../../Assets/Icons/clicker-del-mouse.png'
 function Portafolio() {
   return (
     <section className='Portafolio'>
-        <h2>
+        <h2 className='second-title'>
             Mi Portafolio
         </h2>
-        <section>
+        <section >
             <Cards>
             
                 <Card>

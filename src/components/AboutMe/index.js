@@ -6,7 +6,7 @@ import foto from '../../Assets/Img/photo_perfil.jpg'
 function AboutMe() {
   return (
     <section className='AboutMe'>
-        <h3>Sobre mi</h3>
+        <h3 className='second-title'>Sobre mi</h3>
         <section className='AboutMe-content'>
             <article>
                 <p>

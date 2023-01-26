@@ -9,6 +9,8 @@
   --secondary-color: #A848AB;
   --tertiary-color: #F7DA74;
   --quaternary-color: #8DF7E4;
+  --primary-tittle: 3.5rem;
+  --secondary-tittle: 2rem;
 
 }
 
@@ -22,5 +24,14 @@ button{
   border-radius: 10px;
   cursor: pointer;
   background: var(--tertiary-color);
-  margin: 0.5rem;
+  margin: 0.4rem;
+  padding: 0.8rem;
+}
+
+.first-title{
+  font-size: var(--primary-tittle);
+}
+
+.second-title{
+  font-size: var(--secondary-tittle);
 }
