@@ -17,6 +17,8 @@
 body {
   color: white;
   padding: 8%;
+  font-weight: 600;
+  font-size: 18px;
 }
 
 button{
