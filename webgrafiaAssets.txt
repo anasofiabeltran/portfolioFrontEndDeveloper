@@ -15,3 +15,5 @@ Iconos:
 <a href="https://www.flaticon.es/iconos-gratis/codigo" title="código iconos">Código iconos creados por Icongeek26 - Flaticon</a>
 <a href="https://www.flaticon.es/iconos-gratis/github" title="github iconos">Github iconos creados por pictogramer - Flaticon</a>
 <a href="https://www.flaticon.es/iconos-gratis/clicker-del-mouse" title="clicker del mouse iconos">Clicker del mouse iconos creados por gungyoga04 - Flaticon</a>
+<a href="https://www.flaticon.es/iconos-gratis/linkedin" title="linkedin iconos">Linkedin iconos creados por riajulislam - Flaticon</a>
+<a href="https://www.flaticon.es/iconos-gratis/github" title="github iconos">Github iconos creados por Dave Gandy - Flaticon</a>

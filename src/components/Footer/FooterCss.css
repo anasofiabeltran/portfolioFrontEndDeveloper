@@ -10,5 +10,24 @@
     top: 0;
     left: -119px;
     width: 98.7vw;
-    height: 17vh;
+    height: auto;
+}
+
+.Footer-content{
+    text-align: center;
+}
+
+.Footer-content article{
+    justify-content: center;
+    display: flex;
+    gap: 2rem;
+    margin: 1rem;
+}
+
+.Footer-content button{
+    background: transparent;
+}
+
+.Footer-content img{
+    width: 40px;
 }
