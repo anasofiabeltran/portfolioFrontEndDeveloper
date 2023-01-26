@@ -1,0 +1,7 @@
+.AboutMe-content{
+    display: flex;
+}
+
+.AboutMe-foto img{
+    width: 200px;
+}

@@ -2,6 +2,11 @@ import { useCallback } from "react";
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
 
+import { Intro } from "../Intro";
+import { AboutMe } from "../AboutMe";
+import { Portafolio } from "../Portafolio";
+import { Contact } from "../Contact";
+
 import './MainCss.css'
 
 
@@ -140,7 +145,10 @@ const Main = ( ) =>{
                 detectRetina: true,
             }}
         />
-            hola
+            <Intro />
+            <AboutMe />
+            <Portafolio />
+            <Contact />
         </main>
     );
 
