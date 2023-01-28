@@ -5,10 +5,9 @@ import './NavCss.css'
 function Nav() {
   return (
     <nav className='Nav'>
-      <button> HOME</button>
-      <button> ABOUT ME</button>
-      <button> PORTAFOLIO</button>
-      <button> CONTACT</button>
+      <button> <a href='#AboutMe'>ABOUT ME</a> </button>
+      <button>  <a href='#Portafolio'> PORTAFOLIO</a></button>
+      <button> <a href='#Contact'> CONTACT</a></button>
     </nav>
   )
 }

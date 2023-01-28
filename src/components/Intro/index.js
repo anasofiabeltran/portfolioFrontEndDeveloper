@@ -5,7 +5,7 @@ import './IntroCss.css'
 
 function Intro() {
   return (
-    <section className='Intro'>
+    <section id="AboutMe" className='Intro'>
         <hgroup>
             <h4>Hola, mi nombre es</h4>
             <h3 className='second-title'>Ana Sofia Beltran Rios</h3>

@@ -4,7 +4,7 @@ import './ContactCss.css'
 
 function Contact() {
   return (
-    <section className='Contact'>
+    <section id="Contact" className='Contact'>
         <h3 className='second-title'>Contácteme</h3>
         
         <h4>Celular:  3159273187</h4>
