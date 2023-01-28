@@ -37,3 +37,20 @@ button{
 .second-title{
   font-size: var(--secondary-tittle);
 }
+
+/*Responsive design*/
+
+@media (max-width: 475px){
+.Main .Header{
+  width: 102vw;
+  height: 20vh;
+}
+
+.Main .Intro{
+  margin: 8rem 0 2rem;
+}
+
+.AboutMe-content .AboutMe-content-text{
+  width: 84%;
+}
+}

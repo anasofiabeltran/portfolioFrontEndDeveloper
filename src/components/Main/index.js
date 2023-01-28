@@ -7,7 +7,7 @@ import { AboutMe } from "../AboutMe";
 import { Portafolio } from "../Portafolio";
 import { Contact } from "../Contact";
 import {Header} from "../Header"
-import {Footer} from "../Footer"
+
 
 import './MainCss.css'
 
@@ -152,7 +152,7 @@ const Main = ( ) =>{
             <AboutMe />
             <Portafolio />
             <Contact />
-            <Footer />
+            
         </main>
     );
 
