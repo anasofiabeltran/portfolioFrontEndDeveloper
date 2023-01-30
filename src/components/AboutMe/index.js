@@ -10,7 +10,7 @@ function AboutMe() {
         <section className='AboutMe-content'>
             <article className='AboutMe-content-text'>
                 <p>
-                Ingeniera de sistemas con énfasis en desarrollo frontend, trabajo mediante la librería de React JS y herramientas para el desarrollo web como HTML, CSS y JAVASCRIPT. Soy una persona aposionada y disciplinada. Me apasionan los temas de diseño y animación en 3D, manejo del paquete de Adobe herramientas tales como Ilustrator, Photoshop y After effects.
+                Ingeniera de sistemas con énfasis en desarrollo frontend, trabajo mediante la librería de React JS y herramientas para el desarrollo web como HTML, CSS y JAVASCRIPT. Soy una persona apasionada y disciplinada. Me apasionan los temas de diseño y animación en 3D, manejo del paquete de Adobe herramientas tales como Ilustrator, Photoshop y After effects.
                 </p>
             </article>
                 <figure className='AboutMe-foto'>
