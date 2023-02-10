@@ -44,16 +44,24 @@ button{
 /*Responsive design*/
 
 @media (max-width: 475px){
-.Main .Header{
-  width: 102vw;
-  height: 20vh;
+.Header{
+  height: 22vh !important;
+  width: 110vw !important;
 }
 
 .Main .Intro{
-  margin: 8rem 0 2rem;
+  margin: 10rem 0 2rem;
 }
 
 .AboutMe-content .AboutMe-content-text{
   width: 84%;
+}
+
+.Footer-content {
+  width: 115vw !important;
+}
+
+.Footer-content article, p{
+  margin-left: 2rem !important;
 }
 }
