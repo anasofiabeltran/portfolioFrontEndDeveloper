@@ -16,7 +16,6 @@
 
 body {
   color: white;
-  padding: 8%;
   font-weight: 600;
   font-size: 18px;
 }
@@ -38,6 +37,10 @@ button{
   font-size: var(--secondary-tittle);
 }
 
+
+.Main{
+  padding: 4%;
+}
 /*Responsive design*/
 
 @media (max-width: 475px){

@@ -9,7 +9,7 @@
     position: absolute;
     top: 0;
     left: -9.4%;
-    width: 99.7vw;
+    width: 109.4%;
     height: auto;
 }
 
@@ -22,7 +22,13 @@
     display: flex;
     gap: 2rem;
     margin: 1rem;
+    margin-left: 9rem;
 }
+
+.Footer-content p{
+    margin-left: 9rem;
+}
+
 
 .Footer-content button{
     background: transparent;
