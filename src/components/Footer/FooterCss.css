@@ -30,4 +30,6 @@
 
 .Footer-content img{
     width: 40px;
+    border: transparent;
+    border-radius: 10px;
 }

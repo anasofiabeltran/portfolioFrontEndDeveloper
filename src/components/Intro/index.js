@@ -7,9 +7,7 @@ function Intro() {
   return (
     <section id="AboutMe" className='Intro'>
         <hgroup>
-            <h4>Hola, mi nombre es</h4>
             <h3 className='second-title'>Ana Sofia Beltran Rios</h3>
-            <h4>Y este es mi</h4>
             <h1 className='first-title'>Portafolio</h1>
         </hgroup>
     </section>
