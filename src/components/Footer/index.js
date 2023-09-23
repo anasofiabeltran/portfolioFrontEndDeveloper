@@ -12,7 +12,7 @@ function Footer() {
       <section className='Footer-content'>
         <article>
           <button>
-            <a href='https://www.linkedin.com/in/ana-sofia-beltran-63743321a/'>
+            <a href='www.linkedin.com/in/anasofiabeltran'>
               <figure>
                 <img  src={linkedin}/>
               </figure>
